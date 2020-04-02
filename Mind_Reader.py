@@ -10,8 +10,8 @@ number_list = []
 
 # Character input to start
 keep_going = ""
-print("\033[44;43m Welcome to the Mind Reader. Prepare to be *mind* blown. \033[m\n\nPush any letter/number key then <enter> "
-      "to begin.")
+print("\033[44;43m Welcome to the Mind Reader. Prepare to be *mind* blown. \033[m\n\nPush any letter/number"
+      " key then <enter> to begin.")
 while keep_going == "":
     keep_going = input("")
 
@@ -52,6 +52,7 @@ while user_number == "":
     random_partition_5 = random.randint(41, 47)
     random_partition_6 = random.randint(49, 55)
     VAR1 = 8
+    VAR2 = 0
     if loop_times == 0:
         VAR2 = 0
     elif loop_times == 1:
