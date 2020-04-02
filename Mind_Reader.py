@@ -209,7 +209,7 @@ while user_number == "":
 
 print("\n\n\n\033[44;42mWell, well, well. If you answered all the questions correctly, the Mind Reader will work "
       "exactly\033[m\n\033[44;42mas advertised. Are you ready to be surprised?\033[m\n\nDoesn't matter! \033[44;41m"
-      "Your number is: {}\033[m".format(user_number))
+      " Your number is: {} \033[m".format(user_number))
 
 print("\nThank you for using this program. Please leave a positive comment if you enjoyed or some constructive "
       "feedback if you didn't enjoy it so much")
