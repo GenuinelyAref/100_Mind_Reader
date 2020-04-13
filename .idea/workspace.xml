@@ -8,6 +8,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="100_Mind_Reader" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -16,12 +19,12 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/100_Mind_Reader" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Zb3KAmRGidsIXMkuruQ5EJGBXV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Documents/GitHub/02_HL_Game" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/GitHub/02_HL_Game" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
@@ -36,7 +39,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Mind_Reader (1)">
+  <component name="RunManager" selected="Python.Mind_Reader">
     <configuration name="Mind_Reader (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Desktop" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,8 +105,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Mind_Reader (1)" />
         <item itemvalue="Python.Mind_Reader" />
+        <item itemvalue="Python.Mind_Reader (1)" />
         <item itemvalue="Python.scrap" />
       </list>
     </recent_temporary>
